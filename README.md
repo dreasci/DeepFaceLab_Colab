@@ -19,18 +19,18 @@ No need to copy, zip, unzip multiple times, no need to worry about data loss.
 * Colaboratory requires interaction when in use. The system may stop long-running background calculations
 * Sometimes,The first load(train load) may be slower .
   
-  ![](https://github.com/dream80/DeepFaceLab_Colab/blob/master/doc/history.jpg?raw=true)  
+  ![](https://github.com/dreasci/DeepFaceLab_Colab/blob/master/doc/history.jpg?raw=true)  
 
 # Guide
 1. First, You need a google account  
-2. Secend,you need a [DeepFaceLab_Colab.ipynb](https://github.com/dream80/DeepFaceLab_Colab/blob/master/DeepFaceLab_Colab.ipynb) file  
+2. Secend,you need a [DeepFaceLab_Colab.ipynb](https://github.com/dreasci/DeepFaceLab_Colab/blob/master/DeepFaceLab_Colab.ipynb) file  
 3. Third,  Click ***Open in Colab***  ，Run it！
-4. Fourth, Run [ViewLastHistory.ipynb](https://github.com/dream80/DeepFaceLab_Colab/blob/master/ViewLastHistory.ipynb) file,Check out the latest results.
+4. Fourth, Run [ViewLastHistory.ipynb](https://github.com/dreasci/DeepFaceLab_Colab/blob/master/ViewLastHistory.ipynb) file,Check out the latest results.
 5. Sixth,Continue training  Step 6 of using the DeepFaceLab_Colab.ipynb file!
 
   
 
-![](https://github.com/dream80/DeepFaceLab_Colab/blob/master/doc/lasthistory.png?raw=true)  
+![](https://github.com/dreasci/DeepFaceLab_Colab/blob/master/doc/lasthistory.png?raw=true)  
 
   
 
